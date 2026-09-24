@@ -81,3 +81,7 @@ Y=0.0in
 COLOUR=(60,60,60)
 BAND1=10,15,(250,250,250)
 pincolour=(250,250,250)
+
+Linguagem SPICE:
+Simulation program with integrated circuits emphasis
+ 
