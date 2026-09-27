@@ -27,7 +27,7 @@ SY=2.500mm
 PINMAX=10mm
 PINCOLOUR=(230,200,130)
 
-connector 15 pin:
+connector 15 pin: (alterar tipo para male)
 TYPE=CUBOID
 COLOUR=(75,75,75)
 MINHEIGHT=1mm
@@ -35,6 +35,30 @@ MAXHEIGHT=4mm
 X=17.80mm
 Y=-0.020mm
 SX=38.100mm
+SY=2.500mm
+PINMAX=10mm
+PINCOLOUR=(230,200,130)
+
+connector 15 pin: (alterarado para female)
+TYPE=CUBOID
+COLOUR=(75,75,75)
+MINHEIGHT=0.2mm
+MAXHEIGHT=10.3mm
+X=17.80mm
+Y=-0.020mm
+SX=38.100mm
+SY=2.500mm
+PINMAX=10mm
+PINCOLOUR=(230,200,130)
+
+conector 3 pin sil-headers type female
+TYPE=CUBOID
+COLOUR=(75,75,75)
+MINHEIGHT=0.2mm
+MAXHEIGHT=10.3mm
+X=2.50mm
+Y=-0.020mm
+SX=7.500mm
 SY=2.500mm
 PINMAX=10mm
 PINCOLOUR=(230,200,130)
