@@ -5,3 +5,5 @@
 - Fazendo a análise estrutural co circuito e, desenhando o mesmo no Proteus 8.10 SP3.
 - Também clonando a placa de controle deste plotter, usando o proteus ISIS interno.
 - Projeto em evolução, sendo feito em pequenas partes e módulos.
+---------------------------------------------
+## Atualizações constantes deste projeto
