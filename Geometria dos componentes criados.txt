@@ -180,7 +180,8 @@ PINCOLOUR=(230,230,230)
 
 
 Linguagem SPICE:
-Simulation program with integrated circuits emphasis
+Simulation Program with Integrated Circuits Emphasis
 
 Novos modelos aqui:
 ===================================================
+Last Update 13-11-2026 10:07hs
