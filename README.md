@@ -7,3 +7,6 @@
 - Projeto em evolução, sendo feito em pequenas partes e módulos.
 ---------------------------------------------
 ## Atualizações constantes deste projeto
+
+- Projeto em constante evolução. Estão sendo colocados os componentes.
+necessários para o bom funcionamento deste Plotter.
