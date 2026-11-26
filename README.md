@@ -8,5 +8,9 @@
 ---------------------------------------------
 ## Atualizações constantes deste projeto
 
-- Projeto em constante evolução. Estão sendo colocados os componentes.
+- Projeto em constante evolução. Estão sendo colocados os componentes
 necessários para o bom funcionamento deste Plotter.
+- Estou usando o método de engenharia reversa para conseguir produzir 
+o diagrama esquemático. O Fabricante encerrou as atividades e não há 
+como conseguir suporte técnico.
+ 

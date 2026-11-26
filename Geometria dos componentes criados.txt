@@ -185,3 +185,4 @@ Simulation Program with Integrated Circuits Emphasis
 Novos modelos aqui:
 ===================================================
 Last Update 13-11-2026 10:07hs
+Last Revision 25-11-2026 23:57hs
